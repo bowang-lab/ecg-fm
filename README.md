@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="docs/ECG-FM - Graphical Abstract.jpg" width="500">
+  <img src="docs/ECG-FM - Graphical Abstract.jpg" width="850">
   <br />
   <br />
   <a href="https://github.com/bowang-lab/ECG-FM/blob/main/LICENSE/"><img alt="MIT License" src="https://img.shields.io/badge/license-MIT-blue.svg" /></a>
