@@ -1,11 +1,3 @@
-"""
-TODO
-
-Check the new templates for non-existent entities and descriptors
-- Make this its own function
-
-Add static in-class standardizing functionalities (to template, entity, etc.)
-"""
 from typing import Dict, List, Optional, Tuple, Union
 from collections import OrderedDict
 import os
